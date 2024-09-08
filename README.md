@@ -1,82 +1,55 @@
-<h2 align="left">Hi 👋! My name is Bohdan and I'm a Developer & Designer, from Ukraine/Poland</h2>
 
-<a href="https://rastgame.github.io/" target="_blank"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frastgame&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com) </a>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/_rastgame_/)](https://www.instagram.com/_rastgame_/)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rastgame.github.io)](https://rastgame.github.io)
-[![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame)
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rastgame&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rastgame&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://rastgame.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  </a>
-</div>
+<h2>👋 Hello! I'm Bohdan (@rastgame) [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame)</h2> 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rastgame&show_icons=true&theme=radical" alt="rastgame's GitHub stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastgame&layout=compact&theme=radical" alt="rastgame's Top Languages"/> </p>
+🎯 **Quick Overview**:  
+I’m a developer and designer with a passion for building innovative projects. I’m also just a tea lover ☕, born in Ukraine, now living in Poland.
 
-###
+## 🚀 About Me:
 
-<div align="left">
-  <a href="https://www.youtube.com/c/RastGameY" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"/>
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="@RastGame" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
-  </a>
-</div>
+- 🔭 I’m currently working on:
+  - [Ani](https://ani.pp.ua)
+  - [Vortex Rhythms](https://in.developing.com)
+  - [Other Projects](https://rastgame.github.com/projects)
+  
+- 🌱 I’m currently learning and working with:
+  - **Languages**: Python, C++, Go, Java, JavaScript, TypeScript
+  - **Frameworks/Libraries**: FastAPI, Disnake, Flask, Vue.js, Express, and more...
+  
+- 📫 How to reach me:
+  - [Portfolio](https://rastgame.github.com)
+  - [Blog](https://rastgame.github.com/blog)
+  
+- ⚡ Fun fact: btw, I use Arch Linux 😄
 
-###
+## 🛠 My Tech Stack:
 
-<br clear="both">
+- **Languages**: Python, C++, Go, Java, JavaScript, TypeScript
+- **Frameworks**: FastAPI, Disnake, Flask, Vue.js, Express
+- **Platforms**: Node.js, Arch Linux
 
-<img src="https://raw.githubusercontent.com/rastgame/rastgame/output/snake.svg" alt="Snake animation" />
+## 📈 GitHub Stats:
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rastgame&show_icons=true&theme=radical" alt="Bohdan's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastgame&layout=compact&theme=radical" alt="Bohdan's Top Languages"/>
+</p>
+
+## 🌍 Languages I Speak:
+
+- Ukrainian, Polish, English, German, Portuguese
+
+## 🌟 Social:
+
+- [YouTube](https://www.youtube.com/@rastgame_)
+- Discord: @rastgame
+- [Telegram](https://t.me/rastgame)
+- [Instagram](https://Instagram.com/_rastgame_)
+- [Yurba](https://yurba.one/user/rastgame)
+
+## 🏢 Organizations:
+
+- @ERDIES
+- @CCU
+
