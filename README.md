@@ -58,6 +58,9 @@
   </a>
 </div>
 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rastgame&show_icons=true&theme=radical" alt="rastgame's GitHub stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[rastgame]&layout=compact&theme=radical" alt="[rastgame]'s Top Languages"/> </p>
+
 ###
 
 <div align="left">
