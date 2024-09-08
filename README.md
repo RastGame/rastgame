@@ -33,7 +33,7 @@ I’m a developer and designer with a passion for building innovative projects. 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rastgame&show_icons=true&theme=radical" alt="Bohdan's GitHub stats" />
-  <br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastgame&layout=compact&theme=radical" alt="Bohdan's Top Languages"/>
 </p>
 
