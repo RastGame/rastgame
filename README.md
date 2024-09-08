@@ -5,13 +5,6 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rastgame.github.io)](https://rastgame.github.io)
 [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame)
 
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rastgame/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
