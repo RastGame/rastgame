@@ -1,6 +1,7 @@
 
-<h2>👋 Hello! I'm Bohdan (@rastgame) [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame)</h2> 
+<h2>👋 Hello! I'm Bohdan (@rastgame)</h2> 
 
+[![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame)
 
 🎯 **Quick Overview**:  
 I’m a developer and designer with a passion for building innovative projects. I’m also just a tea lover ☕, born in Ukraine, now living in Poland.
