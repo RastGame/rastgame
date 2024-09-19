@@ -1,5 +1,5 @@
 
-<h2>👋 Hello! I'm Bohdan (@rastgame)</h2> 
+<h2>👋 Hello! I'm Bohdan (@rastgame), just a tea lord</h2> 
 
 [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame)
 
@@ -8,10 +8,9 @@
 
 ## 🛠 My Tech Stack:
 
-- **Languages**: Python, C++, Go, Java, JavaScript, TypeScript
-- **Frameworks**: FastAPI, Disnake, Flask, Vue.js, Express
-- **Platforms**: Node.js, Arch Linux
-
+- **Languages**: Python, C++, Go, JavaScript, TypeScript
+- **Frameworks**: FastAPI, Disnake, Flask, Vue.js, Express and others..
+  
 ## 📈 GitHub Stats:
 
 <p align="center">
@@ -28,5 +27,5 @@
 - [YouTube](https://www.youtube.com/@rastgame_)
 - [Instagram](https://Instagram.com/_rastgame_)
 - [Telegram](https://t.me/rastgame)
-- [Yurba](https://yurba.one/user/rastgame)
+- [Yurba](https://me.yurba.one/rastgame)
 
