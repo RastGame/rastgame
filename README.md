@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame)
 
 ## 🌍 Languages I Speak:
-- Ukrainian, Polish, English, German, Portuguese
+- Ukrainian, Polish, English, German, and little Portuguese
 
 ## 🛠 My Tech Stack:
 
