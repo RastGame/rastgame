@@ -1,10 +1,10 @@
 
-<h2>👋 Hello! I'm Bohdan (@rastgame), just a tea lord</h2> 
+<h2>👋 Hello! I'm rastgame, just a tea lord</h2> 
 
 [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame)
 
 ## 🌍 Languages I Speak:
-- Ukrainian, Polish, English, German, and little Portuguese
+- Polish, English, Ukrainian, Russia, a little German and Portuguese
 
 ## 🛠 My Tech Stack:
 
