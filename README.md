@@ -1,6 +1,6 @@
 <h2>👋 Hello! I'm RastGame, just a tea lord</h2> 
 
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCjjORUuuG7UqnkH7Fr440tA)](https://youtube.com/UCjjORUuuG7UqnkH7Fr440tA) [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame) 
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCjjORUuuG7UqnkH7Fr440tA)](https://youtube.com/channel/UCjjORUuuG7UqnkH7Fr440tA) [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame) 
 
 ## 🌍 Languages I Speak:
 - Polish, English, Ukrainian, Russian, a little German and Portuguese
@@ -32,5 +32,5 @@
 - [Telegram](https://t.me/rastgame)
 - [Yurba](https://me.yurba.one/rastgame)
 
-### CodeWars:
-![CodeWars](https://www.codewars.com/users/rastgame/badges/large)
+### 📌 CodeWars:
+[![CodeWars](https://www.codewars.com/users/RastGame/badges/large)](https://www.codewars.com/users/RastGame)
