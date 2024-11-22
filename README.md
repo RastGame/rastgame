@@ -1,6 +1,6 @@
 <h2>👋 Hello! I'm RastGame, just a tea lord</h2> 
 
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCjjORUuuG7UqnkH7Fr440tA) [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame) 
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCjjORUuuG7UqnkH7Fr440tA)](https://youtube.com/UCjjORUuuG7UqnkH7Fr440tA) [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame) 
 
 ## 🌍 Languages I Speak:
 - Polish, English, Ukrainian, Russian, a little German and Portuguese
