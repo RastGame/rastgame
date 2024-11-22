@@ -26,11 +26,5 @@
   - [Vortex Rhythms](https://in.developing.com) // In dev
   - [Other Projects](https://rastgame.github.com/projects) // In dev
 
-## 🌟 Social:
-- [YouTube](https://www.youtube.com/@rastgame_)
-- [Instagram](https://Instagram.com/_rastgame_)
-- [Telegram](https://t.me/rastgame)
-- [Yurba](https://me.yurba.one/rastgame)
-
 ### 📌 CodeWars:
 [![CodeWars](https://www.codewars.com/users/RastGame/badges/large)](https://www.codewars.com/users/RastGame)
