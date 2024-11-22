@@ -17,10 +17,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastgame&layout=compact&theme=radical" alt="RastGame's Top Languages"/>
 </p>
 
-- 🗂️ Project's:
+## 🗂️ Project's:
   - ...
 
-- 🔭 I’m currently working on:
+## 🔭 I’m currently working on:
   - [Yurba-cli](https://github.com/RastGame/yurba) // In dev
   - [Ani](https://ani.pp.ua) // In dev
   - [Vortex Rhythms](https://in.developing.com) // In dev
