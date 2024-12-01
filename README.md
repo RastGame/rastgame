@@ -3,9 +3,6 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCjjORUuuG7UqnkH7Fr440tA)](https://youtube.com/channel/UCjjORUuuG7UqnkH7Fr440tA) 
 [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame) 
 
-## 🌍 Languages I Speak:
-- Polish, English, Ukrainian, Russian, a little German and Portuguese
-
 ## 🛠 My Tech Stack:
 
 - **Languages**: Python, C++, Go, JavaScript, TypeScript
