@@ -19,8 +19,8 @@
   - ...
 
 ## 🔭 I’m currently working on:
-  - [Yurba-cli](https://github.com/RastGame/yurba) // In dev
-  - [Ani](https://ani.pp.ua) // In dev
+  - [Yurbacli ( A library for creating yurba bots )](https://github.com/RastGame/yurbacli) // In dev
+  - [Ani ( Discord bot )](https://ani.pp.ua) // In dev
   - [Vortex Rhythms](https://in.developing.com) // In dev
   - [Other Projects](https://rastgame.github.com/projects) // In dev
 
