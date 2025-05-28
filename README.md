@@ -22,7 +22,7 @@
   - [Yurba.js](https://github.com/RastGame/yurba.js) [ Typescript ]
   - [Yurba Desktop](https://github.com/rastgame/yurba-desktop) [ Rust + Slint ]
   - [Ani](https://ani.pp.ua) [ Node.js ] // Temporarily unavailable
-  - [Rasgen]
+  - [Rasgen](https://github.com/rasgen) [ Typescript ]
 
 ### 📌 CodeWars:
 [![CodeWars](https://www.codewars.com/users/RastGame/badges/large)](https://www.codewars.com/users/RastGame)
