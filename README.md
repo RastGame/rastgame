@@ -5,7 +5,7 @@
 
 ## 🛠 My Tech Stack:
 
-- **Languages**: Python, C++, Go, JavaScript, TypeScript
+- **Languages**: Python, C++, Rust, JavaScript, TypeScript
 - **Frameworks**: FastAPI, Disnake, Flask, Express and others..
   
 ## 📈 GitHub Stats:
@@ -19,10 +19,10 @@
   - ...
 
 ## 🔭 I’m currently working on:
-  - [Yurba.js ( A library for creating yurba bots )](https://github.com/RastGame/yurba.js) 
-  - [Ani ( Discord bot )](https://ani.pp.ua) // In dev
-  - [Vortex Rhythms](https://in.developing.com) // In dev
-  - [Other Projects](https://rastgame.github.com/projects) // In dev
+  - [Yurba.js](https://github.com/RastGame/yurba.js) [ Typescript ]
+  - [Yurba Desktop](https://github.com/rastgame/yurba-desktop) [ Rust + Slint ]
+  - [Ani](https://ani.pp.ua) [ Node.js ] // Temporarily unavailable
+  - [Rasgen]
 
 ### 📌 CodeWars:
 [![CodeWars](https://www.codewars.com/users/RastGame/badges/large)](https://www.codewars.com/users/RastGame)
