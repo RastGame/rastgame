@@ -20,7 +20,7 @@
 
 ## 🔭 I’m currently working on:
   - [Yurba.js](https://github.com/RastGame/yurba.js) [ Typescript ]
-  - [Yurba Desktop](https://github.com/rastgame/yurba-desktop) [ Rust + Slint ]
+  - [Altba Desktop](https://github.com/rastgame/altba) [ Rust + Slint ]
   - [Ani](https://ani.pp.ua) [ Node.js ] // Temporarily unavailable
   - [Rasgen](https://github.com/rasgen) [ Typescript ]
 
