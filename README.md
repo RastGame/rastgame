@@ -6,7 +6,7 @@
 ## 🛠 My Tech Stack:
 
 - **Languages**: Python, C++, Rust, JavaScript, TypeScript
-- **Frameworks**: FastAPI, Disnake, Flask, Express and others..
+- **Frameworks**: FastAPI, Disnake, Slint, Flask, Express and others..
   
 ## 📈 GitHub Stats:
 
