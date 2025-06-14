@@ -19,10 +19,11 @@
   - ...
 
 ## 🔭 I’m currently working on:
-  - [Yurba.js](https://github.com/RastGame/yurba.js) [ Typescript ]
+  - [Yurba.js](https://github.com/RastGame/yurba.js) [ Typescript ] 
   - [Altba Desktop](https://github.com/rastgame/altba) [ Rust + Slint ]
   - [Ani](https://ani.pp.ua) [ Node.js ] // Temporarily unavailable
   - [Rasgen](https://github.com/rasgen) [ Typescript ]
+  - [Tintshell](https://github.com/RastGame/tintshell) [ JavaScript ]
 
 ### 📌 CodeWars:
 [![CodeWars](https://www.codewars.com/users/RastGame/badges/large)](https://www.codewars.com/users/RastGame)
