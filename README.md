@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame) 
 
 ## 🛠 My Tech Stack:
-- **Languages**: Python, Rust, JS / TS
+- **Languages**: Python, Rust, JS/TS
 - **Frameworks**: FastAPI, Next.js, Flask
 
 ## 🗂️ Project's:
