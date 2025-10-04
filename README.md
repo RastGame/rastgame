@@ -9,7 +9,9 @@
 
 ## 🗂️ Project's:
   - [Yurba.js](https://yurba.js.org) [ Typescript ]  # in dev
-  - [Ani](https://ani.pp.ua) [ Node.js ] # in dev
+  - [Ani](https://ani.pp.ua) [ Discord.js + Yurba.js ] # in dev
+  - [Nexyu](https://nexyu.vercel.app/) [ Next.js ] # in dev
+  - [Altba](https://altba.leapcell.app/) [ Rust + Tauri + svelte ] # in dev
   
 ## 📈 GitHub Stats:
 
