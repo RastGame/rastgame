@@ -8,17 +8,9 @@
 - **Frameworks**: FastAPI, Next.js, Flask
 
 ## 🗂️ Project's:
-  - [Yurba.js](https://yurba.js.org) [ Typescript ]  # in dev
-  - [Ani](https://ani.pp.ua) [ Discord.js + Yurba.js ] # in dev
-  - [Nexyu](https://nexyu.vercel.app/) [ Next.js ] # in dev
+  - <a href="https://yurba.js.org"><img src="https://img.shields.io/badge/Yurba.js-3B6FFF?style=for-the-badge&logo=typescript&logoColor=white"></a> `[ Typescript, NodeJS ]`
+  - <a href="https://nexyu.vercel.app/"><img src="https://img.shields.io/badge/Nexyu-7971FF?style=for-the-badge&logo=typescript&logoColor=white"></a> `[ Next.js ]`
   - [Altba](https://altba.leapcell.app/) [ Rust + Tauri + svelte ] # in dev
-  
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rastgame&show_icons=true&theme=radical" alt="RastGame's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastgame&layout=compact&theme=radical" alt="RastGame's Top Languages"/>
-</p>
 
 ### Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rastgame&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
