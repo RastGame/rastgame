@@ -3,16 +3,13 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCjjORUuuG7UqnkH7Fr440tA)](https://youtube.com/channel/UCjjORUuuG7UqnkH7Fr440tA) 
 [![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame) 
 
-## 🛠 My Tech Stack:
-### Languages
+## 🚀 Some Tools I Have Used and Learned
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/rust-EE4A01?style=for-the-badge&logo=rust&logoColor=white">
 </p>
-
-### Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/React-017FA5?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
