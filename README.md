@@ -13,7 +13,7 @@
 </p>
 ### Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/React?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-017FA5?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
