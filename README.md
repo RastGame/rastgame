@@ -26,9 +26,9 @@
   <a href="https://altba.leapcell.app/)"><img src="https://img.shields.io/badge/Altba%20Desktop-717FFF?style=for-the-badge&logo=rust&logoColor=white"></a> 
 </p>
 
-<q>Yurba.js</q> — The powerful library for creating bots and integrating with the Yurba API.
-<q>Nexyu</q> — Search and discover the best bots, channels and groups in the Yurba world [`Dev`]
-<q>Altba</q> — Alternative Yurba Desktop [`Dev`]
+<p><q>Yurba.js</q> — The powerful library for creating bots and integrating with the Yurba API.</p>
+<p><q>Nexyu</q> — Search and discover the best bots, channels and groups in the Yurba world [`Dev`]</p>
+<p><q>Altba</q> — Alternative Yurba Desktop [`Dev`]</p>
 
 
 ### Activity
