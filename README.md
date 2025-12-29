@@ -25,11 +25,11 @@
   <a href="https://nexyu.vercel.app/"><img src="https://img.shields.io/badge/Nexyu-7971FF?style=for-the-badge&logo=typescript&logoColor=white"></a>  |
   <a href="https://altba.leapcell.app/)"><img src="https://img.shields.io/badge/Altba%20Desktop-717FFF?style=for-the-badge&logo=rust&logoColor=white"></a> 
 </p>
-<p align="center">
-  <q>[ Node.js ]</q> —
-  <q>[ Next.js ]</q> —
-  <q>[ Rust + Tauri + svelte ]</q>
-</p>
+
+<q>Yurba.js</q> — The powerful library for creating bots and integrating with the Yurba API.
+<q>Nexyu</q> — Search and discover the best bots, channels and groups in the Yurba world [`Dev`]
+<q>Altba</q> — Alternative Yurba Desktop [`Dev`]
+
 
 ### Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rastgame&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
