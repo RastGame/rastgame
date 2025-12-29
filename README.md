@@ -6,11 +6,12 @@
 ## 🛠 My Tech Stack:
 ### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=whit">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=whit">
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/rust-EE4A01?style=for-the-badge&logo=rust&logoColor=white">
 </p>
+
 ### Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/React-017FA5?style=for-the-badge&logo=react&logoColor=white"/>
@@ -19,10 +20,11 @@
 </p>
 
 ## 🗂️ Projects:
-<a href="https://yurba.js.org"><img src="https://img.shields.io/badge/Yurba.js-3B6FFF?style=for-the-badge&logo=typescript&logoColor=white"></a> `[ Typescript, NodeJS ]`
-<a href="https://nexyu.vercel.app/"><img src="https://img.shields.io/badge/Nexyu-7971FF?style=for-the-badge&logo=typescript&logoColor=white"></a> `[ Next.js ]`
-<a href="https://altba.leapcell.app/)"><img src="https://img.shields.io/badge/Altba%20Desktop-717FFF?style=for-the-badge&logo=rust&logoColor=white"></a> `[ Rust + Tauri + svelte ]`
-
+<p align="center">
+  <a href="https://yurba.js.org"><img src="https://img.shields.io/badge/Yurba.js-3B6FFF?style=for-the-badge&logo=typescript&logoColor=white"></a> `[ Typescript, NodeJS ]`
+  <a href="https://nexyu.vercel.app/"><img src="https://img.shields.io/badge/Nexyu-7971FF?style=for-the-badge&logo=typescript&logoColor=white"></a> `[ Next.js ]`
+  <a href="https://altba.leapcell.app/)"><img src="https://img.shields.io/badge/Altba%20Desktop-717FFF?style=for-the-badge&logo=rust&logoColor=white"></a> `[ Rust + Tauri + svelte ]`
+</p>
 
 ### Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rastgame&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
