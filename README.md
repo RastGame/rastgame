@@ -21,9 +21,9 @@
 
 ## 🗂️ Projects:
 <p align="center">
-  <a href="https://yurba.js.org"><img src="https://img.shields.io/badge/Yurba.js-3B6FFF?style=for-the-badge&logo=typescript&logoColor=white"></a> `[ Typescript, NodeJS ]`
-  <a href="https://nexyu.vercel.app/"><img src="https://img.shields.io/badge/Nexyu-7971FF?style=for-the-badge&logo=typescript&logoColor=white"></a> `[ Next.js ]`
-  <a href="https://altba.leapcell.app/)"><img src="https://img.shields.io/badge/Altba%20Desktop-717FFF?style=for-the-badge&logo=rust&logoColor=white"></a> `[ Rust + Tauri + svelte ]`
+  <a href="https://yurba.js.org"><img src="https://img.shields.io/badge/Yurba.js-3B6FFF?style=for-the-badge&logo=typescript&logoColor=white"></a> <q><[ Typescript, NodeJS ]</q>
+  <a href="https://nexyu.vercel.app/"><img src="https://img.shields.io/badge/Nexyu-7971FF?style=for-the-badge&logo=typescript&logoColor=white"></a> <q>[ Next.js ]</q>
+  <a href="https://altba.leapcell.app/)"><img src="https://img.shields.io/badge/Altba%20Desktop-717FFF?style=for-the-badge&logo=rust&logoColor=white"></a> <q>[ Rust + Tauri + svelte ]</q>q>
 </p>
 
 ### Activity
