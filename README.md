@@ -26,8 +26,8 @@
   <a href="https://altba.leapcell.app/)"><img src="https://img.shields.io/badge/Altba%20Desktop-717FFF?style=for-the-badge&logo=rust&logoColor=white"></a> 
 </p>
 <p align="center">
-  <q>[ NodeJS ]</q>
-  <q>[ Next.js ]</q>
+  <q>[ NodeJS ]</q> —
+  <q>[ Next.js ]</q> —
   <q>[ Rust + Tauri + svelte ]</q>
 </p>
 
