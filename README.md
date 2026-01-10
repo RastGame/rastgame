@@ -1,32 +1,44 @@
-## 👋 Hello! I'm RastGame — just a tea lord 🍵
 
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCjjORUuuG7UqnkH7Fr440tA)](https://youtube.com/channel/UCjjORUuuG7UqnkH7Fr440tA) 
-[![Github](https://img.shields.io/github/followers/rastgame?label=Follow&style=social)](https://github.com/rastgame) 
-
-## 🚀 Some Tools I Have Used and Learned
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/rust-EE4A01?style=for-the-badge&logo=rust&logoColor=white">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-017FA5?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-## 🗂️ Projects:
 <p align="center">
-  <a href="https://yurba.js.org"><img src="https://img.shields.io/badge/Yurba.js-3B6FFF?style=for-the-badge&logo=typescript&logoColor=white"></a>  ˖
-  <a href="https://nexyu.vercel.app/"><img src="https://img.shields.io/badge/Nexyu-7971FF?style=for-the-badge&logo=typescript&logoColor=white"></a>  ˖
-  <a href="https://altba.leapcell.app/)"><img src="https://img.shields.io/badge/Altba%20Desktop-717FFF?style=for-the-badge&logo=rust&logoColor=white"></a> 
+  <a href="https://youtube.com/channel/UCjjORUuuG7UqnkH7Fr440tA" target="_blank"><img src="https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=white" /></a>  ˖
+  <a href="https://ashreach.dev" target="_blank"><img src="https://img.shields.io/badge/Ashreach-000000?style=for-the-badge&logo=alchemy&logoColor=white"/><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=devbox&logoColor=white"/></a>  ˖
+  <a href="https://rastgame.ashreach.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=devbox&logoColor=white"/></a>  ˖
+  <a href="https://t.me/justtealord" target="_blank"><img src="https://img.shields.io/badge/TG channel (UA)-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<p><q>Yurba.js</q> — The powerful library for creating bots and integrating with the Yurba API.</p>
-<p><q>Nexyu</q> — Search and discover the best bots, channels and groups in the Yurba world [`Dev`]</p>
-<p><q>Altba</q> — Alternative Yurba Desktop [`Dev`]</p>
+<h2 align="center"> 👋 <em>Hello! I'm RastGame — just a tea lord</em> 🍵</h2>
+<img src="https://cdn.dribbble.com/userupload/20440063/file/original-f73b3606cf45fb3b422805b88b96b58a.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+<p>
+  IT specialist, video editor, junior full-stack developer. I enjoy learning, trying new technologies and solving various problems.
+  Currently, I am working on several interesting projects that allow me to apply my knowledge of Rust, Python, TypeScript/JavaScript, Qt, databases, encryption, Next.js, and more.
+</p>
+<br/>
+<br/>
+<h2 align="center"> <em> Technologies </em> </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ae-000000?style=for-the-badge&logo=aftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Davinci resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge//-000000?style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Affinity-000000?style=for-the-badge&logo=affinity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
+<br/>
 
-### Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rastgame&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
+<h2 align="center""> <em> Activity </em> </h2>
+<div style="display:flex; justify-content:center; align-items:center; gap:0;">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rastgame&radius=16&theme=high-contrast&area=true&order=5"
+    alt="activity-graph graph"
+  />
+</div>
